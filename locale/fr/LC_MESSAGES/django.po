@@ -1,0 +1,66 @@
+# French translations for NETIT project.
+# Copyright (C) 2024
+# This file is distributed under the same license as the NETIT project.
+msgid ""
+msgstr ""
+"Project-Id-Version: NETIT 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-18 12:00+0000\n"
+"PO-Revision-Date: 2024-04-18 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NETIT"
+msgstr "NETIT"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Inventory"
+msgstr "Inventaire"
+
+msgid "Add New"
+msgstr "Ajouter Nouveau"
+
+msgid "Inventory List"
+msgstr "Liste d'Inventaire"
+
+msgid "Purchases"
+msgstr "Achats"
+
+msgid "New Incoming Stock"
+msgstr "Nouveau Stock Entrant"
+
+msgid "Purchases List"
+msgstr "Liste des Achats"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "New Outgoing Stock"
+msgstr "Nouveau Stock Sortant"
+
+msgid "Sales Orders"
+msgstr "Commandes de Vente"
+
+msgid "Suppliers"
+msgstr "Fournisseurs"
+
+msgid "Add New Supplier"
+msgstr "Ajouter un Nouveau Fournisseur"
+
+msgid "Suppliers List"
+msgstr "Liste des Fournisseurs"
+
+msgid "About"
+msgstr "À Propos"
+
+msgid "Admin Page"
+msgstr "Page d'Administration"
+
+msgid "Logout"
+msgstr "Déconnexion" 
